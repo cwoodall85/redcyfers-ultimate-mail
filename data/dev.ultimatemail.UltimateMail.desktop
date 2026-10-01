@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Ultimate Mail
+GenericName=Email Client
+Comment=A mail client that works the way you want it to
+Exec=ultimate-mail-gtk %u
+Icon=ultimate-mail
+Terminal=false
+Categories=Network;Email;
+Keywords=email;mail;imap;smtp;inbox;
+StartupNotify=true
+StartupWMClass=ultimate-mail-gtk
+MimeType=x-scheme-handler/mailto;message/rfc822;
